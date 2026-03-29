@@ -1,0 +1,3 @@
+for i in {2..100}; do
+  gh repo create phamvan1607/van$i --public --description "van1"
+  
